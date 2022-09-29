@@ -3,6 +3,6 @@ public class Gitignore {
         System.out.println("git ignore deneme 1");
         System.out.println("git ignore deneme 3");
         System.out.println("git ignore deneme 2");
-
+        System.out.println("git ignore deneme 4");
     }
 }
